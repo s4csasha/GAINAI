@@ -1,0 +1,322 @@
+﻿@font-face {
+  font-family: 'Barlow';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/barlow/v12/7cHtv4kjgoGqM7E_CfNYwHo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/barlow/v12/7cHsv4kjgoGqM7E_CfP04Vop.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/barlow/v12/7cHsv4kjgoGqM7E_CfOQ4lop.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/barlow/v12/7cHrv4kjgoGqM7E_Ccs8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/barlow/v12/7cHsv4kjgoGqM7E_CfPI41op.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/barlow/v12/7cHsv4kjgoGqM7E_CfPk5Fop.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/barlow/v12/7cHsv4kjgoGqM7E_CfOA5Vop.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url(s/barlow/v12/7cHsv4kjgoGqM7E_CfOc5lop.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url(s/barlow/v12/7cHsv4kjgoGqM7E_CfO451op.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/barlow/v12/7cHrv4kjgoGqM7E3b8s8.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/barlow/v12/7cHqv4kjgoGqM7E3w-oc4A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/barlow/v12/7cHqv4kjgoGqM7E3p-kc4A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/barlow/v12/7cHpv4kjgoGqM7EPCw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/barlow/v12/7cHqv4kjgoGqM7E3_-gc4A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/barlow/v12/7cHqv4kjgoGqM7E30-8c4A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/barlow/v12/7cHqv4kjgoGqM7E3t-4c4A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(s/barlow/v12/7cHqv4kjgoGqM7E3q-0c4A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(s/barlow/v12/7cHqv4kjgoGqM7E3j-wc4A.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/ibmplexmono/v19/-F6rfjptAgt5VM-kVkqdyU8n1ioStndl.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/ibmplexmono/v19/-F6sfjptAgt5VM-kVkqdyU8n1ioSGlZFhw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/ibmplexmono/v19/-F6sfjptAgt5VM-kVkqdyU8n1ioSflVFhw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/ibmplexmono/v19/-F6pfjptAgt5VM-kVkqdyU8n1ioq0g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/ibmplexmono/v19/-F6sfjptAgt5VM-kVkqdyU8n1ioSJlRFhw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/ibmplexmono/v19/-F6sfjptAgt5VM-kVkqdyU8n1ioSClNFhw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/ibmplexmono/v19/-F6sfjptAgt5VM-kVkqdyU8n1ioSblJFhw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/ibmplexmono/v19/-F6pfjptAgt5VM-kVkqdyU8n3kwq0g.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/ibmplexmono/v19/-F6qfjptAgt5VM-kVkqdyU8n3uAL8lc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/ibmplexmono/v19/-F6qfjptAgt5VM-kVkqdyU8n3oQI8lc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/ibmplexmono/v19/-F63fjptAgt5VM-kVkqdyU8n5ig.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/ibmplexmono/v19/-F6qfjptAgt5VM-kVkqdyU8n3twJ8lc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/ibmplexmono/v19/-F6qfjptAgt5VM-kVkqdyU8n3vAO8lc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/ibmplexmono/v19/-F6qfjptAgt5VM-kVkqdyU8n3pQP8lc.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/ibmplexsans/v19/zYX8KVElMYYaJe8bpLHnCwDKhdTmdKZM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/ibmplexsans/v19/zYX7KVElMYYaJe8bpLHnCwDKhdTm2IdscQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/ibmplexsans/v19/zYX7KVElMYYaJe8bpLHnCwDKhdTmvIRscQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/ibmplexsans/v19/zYX-KVElMYYaJe8bpLHnCwDKhdTeEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/ibmplexsans/v19/zYX7KVElMYYaJe8bpLHnCwDKhdTm5IVscQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/ibmplexsans/v19/zYX7KVElMYYaJe8bpLHnCwDKhdTmyIJscQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/ibmplexsans/v19/zYX7KVElMYYaJe8bpLHnCwDKhdTmrINscQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/ibmplexsans/v19/zYX-KVElMYYaJe8bpLHnCwDKjbLeEA.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/ibmplexsans/v19/zYX9KVElMYYaJe8bpLHnCwDKjR7_MIY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/ibmplexsans/v19/zYX9KVElMYYaJe8bpLHnCwDKjXr8MIY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/ibmplexsans/v19/zYXgKVElMYYaJe8bpLHnCwDKtdY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/ibmplexsans/v19/zYX9KVElMYYaJe8bpLHnCwDKjSL9MIY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/ibmplexsans/v19/zYX9KVElMYYaJe8bpLHnCwDKjQ76MIY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/ibmplexsans/v19/zYX9KVElMYYaJe8bpLHnCwDKjWr7MIY.ttf) format('truetype');
+}
